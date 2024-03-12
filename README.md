@@ -6,6 +6,8 @@
 
 [Web Application w/Azure](https://github.com/ChaseHancock/Web-Application-Azure) 
 
+[Buliding Security Monitoring Environment](https://github.com/ChaseHancock/Building-Sec-Monitoring-Environment)
+
 
 
 <h2>📺 Certifications:</h2>
